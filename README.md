@@ -146,6 +146,7 @@ int main(int argc, char *argv[])
 ## OUTPUT
 ![Alt text](<img_ex7/Screenshot at 2026-03-14 06-13-33.png>)
 
+
 ![Alt text](<img_ex7/Screenshot at 2026-03-14 06-33-05.png>)
 
 
